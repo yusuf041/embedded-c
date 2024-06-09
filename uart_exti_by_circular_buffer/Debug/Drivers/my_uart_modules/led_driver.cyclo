@@ -1,0 +1,4 @@
+../Drivers/my_uart_modules/led_driver.c:14:6:led_init	1
+../Drivers/my_uart_modules/led_driver.c:33:6:led_on	1
+../Drivers/my_uart_modules/led_driver.c:37:6:led_off	1
+../Drivers/my_uart_modules/led_driver.c:42:6:togle_led	1

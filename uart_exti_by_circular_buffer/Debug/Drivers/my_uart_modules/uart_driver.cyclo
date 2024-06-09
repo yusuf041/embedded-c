@@ -1,0 +1,9 @@
+../Drivers/my_uart_modules/uart_driver.c:40:6:uart_init	3
+../Drivers/my_uart_modules/uart_driver.c:101:13:UART_Error_Handler	1
+../Drivers/my_uart_modules/uart_driver.c:110:5:__io_putchar	1
+../Drivers/my_uart_modules/uart_driver.c:117:6:USART2_IRQHandler	8
+../Drivers/my_uart_modules/uart_driver.c:183:6:UART_send_byte	2
+../Drivers/my_uart_modules/uart_driver.c:198:16:UART_is_buffer_empty	1
+../Drivers/my_uart_modules/uart_driver.c:212:9:UART_read_byte	3
+../Drivers/my_uart_modules/uart_driver.c:236:6:UART_send_byte_array	2
+../Drivers/my_uart_modules/uart_driver.c:248:10:UART_bytes_to_read	2
