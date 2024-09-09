@@ -1,0 +1,5 @@
+../Drivers/circuit_of_reading_button/led_driver.c:31:6:led_init	16	static
+../Drivers/circuit_of_reading_button/led_driver.c:73:6:led_short_period	8	static
+../Drivers/circuit_of_reading_button/led_driver.c:102:6:led_long_period	8	static
+../Drivers/circuit_of_reading_button/led_driver.c:127:9:get_led_blinking_status	8	static
+../Drivers/circuit_of_reading_button/led_driver.c:133:6:update_led_blinking	16	static
