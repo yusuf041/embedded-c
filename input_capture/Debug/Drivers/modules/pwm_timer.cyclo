@@ -1,0 +1,4 @@
+../Drivers/modules/pwm_timer.c:17:6:pwm_timer_init	1
+../Drivers/modules/pwm_timer.c:58:6:pwm_start	1
+../Drivers/modules/pwm_timer.c:66:6:pwm_stop	1
+../Drivers/modules/pwm_timer.c:73:6:pwm_timer_gpıo_init	1

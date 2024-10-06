@@ -1,0 +1,2 @@
+../Core/Src/button_driver.c:14:6:button_gpio_init	16	static
+../Core/Src/button_driver.c:29:9:get_button_state	8	static
