@@ -1,0 +1,7 @@
+../Drivers/Sensor Driver/ds18b20.c:23:9:DS18B20_Init	16	static
+../Drivers/Sensor Driver/ds18b20.c:67:10:DS18B20_ReadBit	16	static
+../Drivers/Sensor Driver/ds18b20.c:94:10:DS18B20_ReadByte	16	static
+../Drivers/Sensor Driver/ds18b20.c:122:7:DS18B20_WriteByte	32	static
+../Drivers/Sensor Driver/ds18b20.c:152:6:DS18B20_SampleTemp	8	static
+../Drivers/Sensor Driver/ds18b20.c:166:7:DS18B20_ReadTemp	24	static
+../Drivers/Sensor Driver/ds18b20.c:206:6:uart_initt	16	static,ignoring_inline_asm
